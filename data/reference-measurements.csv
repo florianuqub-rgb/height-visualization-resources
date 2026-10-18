@@ -1,0 +1,12 @@
+category,name,measurement,value,unit,value_meters,evidence_label,source_url,reviewed_on,note
+planet,Mercury,equatorial diameter,4880,km,4880000,primary source,https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/,2026-10-18,NASA rounded value
+planet,Venus,equatorial diameter,12104,km,12104000,primary source,https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/,2026-10-18,NASA rounded value
+planet,Earth,equatorial diameter,12756,km,12756000,primary source,https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/,2026-10-18,NASA rounded value
+planet,Mars,equatorial diameter,6792,km,6792000,primary source,https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/,2026-10-18,NASA rounded value
+planet,Jupiter,equatorial diameter,142984,km,142984000,primary source,https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/,2026-10-18,NASA rounded value
+planet,Saturn,equatorial diameter,120536,km,120536000,primary source,https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/,2026-10-18,NASA rounded value
+planet,Uranus,equatorial diameter,51118,km,51118000,primary source,https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/,2026-10-18,NASA rounded value
+planet,Neptune,equatorial diameter,49528,km,49528000,primary source,https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/,2026-10-18,NASA rounded value
+dwarf planet,Pluto,equatorial diameter,2377,km,2377000,primary source,https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/,2026-10-18,NASA rounded value
+dwarf planet,Ceres,equatorial diameter,964,km,964000,primary source,https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/,2026-10-18,NASA rounded value
+animal,Blue whale,maximum body length,110,ft,33.528,primary source,https://www.fisheries.noaa.gov/species/blue-whale,2026-10-18,NOAA maximum rather than typical adult length
